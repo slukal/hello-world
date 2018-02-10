@@ -1,2 +1,4 @@
 # hello-world
-first repository
+Hi all,
+
+this is me, getting into the GIT...
